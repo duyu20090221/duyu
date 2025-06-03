@@ -1,0 +1,38 @@
+body {
+  font-size:small ;
+  font-family: Verdana, Helvetica, Arial;
+}
+
+h1,h2 {
+  color:#007e7e;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+h1,p,body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  padding: 20px 100px 50px;
+}
+
+h1 {
+  margin: 500px 0px 100px 100px;
+  border-bottom-width: thin;
+  border-bottom-style: dotted;
+  border-bottom-color: #888888;
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; /* 新增内边距 */
+}
